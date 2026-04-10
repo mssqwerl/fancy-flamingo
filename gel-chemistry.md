@@ -12,8 +12,8 @@ Key distinction worth knowing:
 ### Sources:
 
 - [PMC: UV-Curable Nail Polish Chemistry (peer-reviewed)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12073227/)
-- [NAILS Magazine: The Science of Gels](https://www.nailsmag.com/387143/the-science-of-gels-how-gel-nail-products-work)
-- [Glitterbels: Molecular-level breakdown](https://glitterbels.com/blogs/news/the-chemistry-of-gel-polish-how-it-works-at-the-molecular-level)
+- [NAILS Magazine: The Science of Gels](https://www.nailsmag.com/387143/the-science-of-gels-how-gel-nail-products-work) ([archive](https://archive.ph/LbtEh))
+- [Glitterbels: Molecular-level breakdown](https://glitterbels.com/blogs/news/the-chemistry-of-gel-polish-how-it-works-at-the-molecular-level) ([archive](https://archive.ph/tKXwQ))
 
 ---
 
@@ -28,7 +28,7 @@ Each photoinitiator only responds to light within its specific **absorption band
 Sources:
 
 - [PMC: UV-Curable Nail Polish Chemistry — photoinitiator section](https://pmc.ncbi.nlm.nih.gov/articles/PMC12073227/)
-- [RadTech: PhD review of UV nail gel science (PDF)](https://radtech.org/proceedings/2018/Applications/Pavlovic-Liz_UV-Nail-Gel.pdf)
+- [RadTech: PhD review of UV nail gel science (PDF)](https://radtech.org/proceedings/2018/Applications/Pavlovic-Liz_UV-Nail-Gel.pdf) ([archive](documents/Pavlovic-Liz_UV-Nail-Gel.pdf))
 
 ---
 
@@ -50,8 +50,8 @@ These termination events, combined with oxygen stealing free radicala at the sur
 
 Sources:
 
-- [The Chic Chemist: step-by-step gel chemistry primer](https://thechicchemist.com/science-sunday-the-chemistry-of-gel-nail-polish/)
-- [The Nail Hub: polymerization explainer](https://www.thenailhub.com/blogs/the-nail-hub-blog/the-science-behind-uv-cured-gel-nail-products)
+- [The Chic Chemist: step-by-step gel chemistry primer](https://thechicchemist.com/science-sunday-the-chemistry-of-gel-nail-polish/)([archive](https://archive.ph/y8UAp))
+- [The Nail Hub: polymerization explainer](https://www.thenailhub.com/blogs/the-nail-hub-blog/the-science-behind-uv-cured-gel-nail-products)([archive](https://archive.ph/oZwMY))
 
 ---
 
@@ -66,4 +66,4 @@ The trend toward **HEMA-free** formulas replaces free HEMA monomers with pre-rea
 ### Sources:
 
 - [PMC: Nail polish composition, toxic components, and inadequate labeling](https://pmc.ncbi.nlm.nih.gov/articles/PMC11991789/)
-- [Glitterbels: HEMA-free chemistry explained](https://glitterbels.com/blogs/news/the-chemistry-of-gel-polish-how-it-works-at-the-molecular-level)
+- [Glitterbels: HEMA-free chemistry explained](https://glitterbels.com/blogs/news/the-chemistry-of-gel-polish-how-it-works-at-the-molecular-level) ([archive](https://archive.ph/tKXwQ))
